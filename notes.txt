@@ -1,0 +1,5 @@
+IAM user 
+IAM gouors
+Assign user to groups
+Create passwrod policy
+Assign permissions
